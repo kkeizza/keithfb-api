@@ -1,23 +1,23 @@
 {
-  "name": "ws3-fca",
-  "version": "3.5.2",
+  "name": "keithfb-api",
+  "version": "1.0.0",
   "module": "commonjs",
   "types": "src/types/index.d.ts",
   "description": "A node.js package for automating Facebook Messenger bot, and is one of the most advanced next-generation Facebook Chat API (FCA) by @NethWs3Dev & @ExocoreCommunity",
   "main": "module/index",
   "scripts": {
-    "test": "echo wohoi!"
+    "test": "echo keith genius!"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/NethWs3Dev/ws3-fca"
+    "url": "https://github.com/kkeizza/keithfb-api"
   },
   "author": "NethWs3Dev",
   "contributors": [
-    "Choru Official (Johnsteve Costaños)",
-    "Jonell Magallanes"
+    "Sams Chorwa",
+    "keith keizzah"
   ],
-  "community": "Exocore",
+  "community": "keith",
   "license": "MIT",
   "bugs": {
     "url": ""
@@ -31,8 +31,8 @@
     "ws3",
     "ws3-chat-api",
     "ws3-fca",
-    "exocore",
-    "nextgen"
+    "keith",
+    "keithfb-api"
   ],
   "dependencies": {
     "axios": "^1.9.0",
